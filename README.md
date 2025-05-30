@@ -14,3 +14,5 @@ update Employee -> (https://github.com/Faizasab94/adj_miniProject/blob/main/upda
 generate report Employee -> (https://github.com/Faizasab94/adj_miniProject/blob/main/generate%20report%20employee.jpeg) <br>
 
  display Employee --> (https://github.com/Faizasab94/adj_miniProject/blob/main/Display%20employee.png)
+<br>
+http://localhost:8081/EmployeeSalaryManagement/index.jsp outputlink
